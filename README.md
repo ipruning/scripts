@@ -1,2 +1,3 @@
 # scripts
-Here are experimental py and ts scripts.
+
+Here are experimental `.py` and `.ts` scripts.
