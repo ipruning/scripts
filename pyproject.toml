@@ -5,6 +5,8 @@ description = "Experimental scripts"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "fire>=0.7.0",
+    "openai>=1.59.3",
     "requests>=2.32.3",
     "rich>=13.9.4",
 ]
